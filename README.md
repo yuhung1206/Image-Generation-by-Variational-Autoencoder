@@ -4,7 +4,7 @@ This project focused on the Image Reconstruction using a Variational Autoencoder
   
 ## Dataset
 All images in this project comes from **Anime Face Dataset**  
-Download the images from -> https://www.kaggle.com/splcher/animefacedataset  
+Download the images from :point_right: https://www.kaggle.com/splcher/animefacedataset  
   
 ## Execution & Overall Structure of system  
  1. Image Preprocessing :  
