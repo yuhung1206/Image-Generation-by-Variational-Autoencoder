@@ -9,7 +9,7 @@ Download the images from -> https://www.kaggle.com/splcher/animefacedataset
 ## Execution & Overall Structure of system  
  1. Image Preprocessing :  
     - Resize Images to [32,32] pixels (Cubic interpolation) 
-    - Reshape 2D image to 1D array [1024 set of RGB] = [3072] 
+    - Reshape 2D image to 1D array [1024 set of RGB] = [3072]  
       ![image](https://user-images.githubusercontent.com/78803926/132944843-1f9251e1-be24-4f27-ab26-d14ce44c76bd.png)  
       
     ```python3 Img_Preprocess.py ```
