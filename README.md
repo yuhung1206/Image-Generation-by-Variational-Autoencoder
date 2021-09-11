@@ -25,4 +25,8 @@ Download the images from -> https://www.kaggle.com/splcher/animefacedataset
       ![image](https://user-images.githubusercontent.com/78803926/132945120-42b11593-e755-4b30-8df6-9b9e71f840ef.png)
 
     
+    - Transitivity of VAE  
+      ![image](https://user-images.githubusercontent.com/78803926/132950071-7406da42-a60e-452a-98c4-e8765f845a07.png)
+
+      
 
